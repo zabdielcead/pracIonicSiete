@@ -8,5 +8,9 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
+  // onsesignal
+  // https://ionicframework.com/docs/native/onesignal
+  // ionic cordova plugin add onesignal-cordova-plugin
+  // npm install @ionic-native/onesignal
 
 }
